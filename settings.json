@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "MacProSMP.aternos.me:16873",
+    "port": 16873,
     "version": "",
     "try-creative": false
   },
